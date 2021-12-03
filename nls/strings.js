@@ -1,4 +1,4 @@
-﻿define({
+define({
   root: ({
     _widgetLabel: "Network Trace",
     _featureAction_NetworkTraceSkip: "Skip in Trace",

@@ -1,4 +1,4 @@
-﻿define({
+define({
   root: ({
     taskUrl: "Task URL",
     setTask: "Set",

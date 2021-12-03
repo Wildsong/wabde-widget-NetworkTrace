@@ -1,4 +1,4 @@
-﻿define({
+define({
   root: ({
     _widgetLabel: "Network Trace",
     configError: "Widget is not properly configured.",
